@@ -37,3 +37,18 @@ const val = await dmeo;
 console.log(val);
 
 
+
+//setintervel
+const id =  setInterval(()=>{
+ console.log("hii");
+},2000)
+
+clearInterval(id);
+
+
+
+
+
+
+
+
